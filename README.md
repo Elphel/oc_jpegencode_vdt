@@ -1,5 +1,5 @@
-oc_jpegencode
-=============
+oc_jpegencode_vdt
+=================
 This repository is fork of a fork - it is taken from [https://github.com/chiggs/oc_jpegencode](https://github.com/chiggs/oc_jpegencode),
 just added Eclipse/[VDT](https://github.com/Elphel/vdt-plugin) project files so it can be imported into IDE and run there.
 
