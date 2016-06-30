@@ -1,13 +1,13 @@
 oc_jpegencode
 =============
-This repository is for of a fork - it is taken from [https://github.com/chiggs/oc_jpegencode](https://github.com/chiggs/oc_jpegencode),
+This repository is fork of a fork - it is taken from [https://github.com/chiggs/oc_jpegencode](https://github.com/chiggs/oc_jpegencode),
 just added Eclipse/[VDT](https://github.com/Elphel/vdt-plugin) project files so it can be imported into IDE and run there.
 
 __These Verilog source files are not related to any of Elphel camera projects.__
 
 Instructions below are preserved from the original (first fork) repo. With [VDT plugin](https://github.com/Elphel/vdt-plugin)
 you need to install the plugin following the instructions and/or video tutorial, then clone this project and open it in VDT.
-THe open any of the Verilog source files in the editor and change perspective:
+Then open any of the Verilog source files in the editor and change perspective:
 
 Window -> Perspective -> Open Perspective -> Other... -> Verilog/VHDL
 
