@@ -5,10 +5,16 @@ just added Eclipse/[VDT](https://github.com/Elphel/vdt-plugin) project files so 
 
 __These Verilog source files are not related to any of Elphel camera projects.__
 
-Instructions below are preserved from the original (first fork) repo. With [VDT plugin](https://github.com/Elphel/vdt-plugin) you need
-to install the plugin following the instructions and/or video tutorial, then clone this project and open it in VDT. Cocotb
-will be cloned and installed when you first run the simulation from the IDE GUI. Both Icarus simulation with traditional plain
-Verilog testbench and with Cocotb are supported. 
+Instructions below are preserved from the original (first fork) repo. With [VDT plugin](https://github.com/Elphel/vdt-plugin)
+you need to install the plugin following the instructions and/or video tutorial, then clone this project and open it in VDT.
+THe open any of the Verilog source files in the editor and change perspective:
+
+Window -> Perspective -> Open Perspective -> Other... -> Verilog/VHDL
+
+Icarus and Cocotb tools will be available in the bottom-left panel, under "Simulation".
+
+Cocotb will be cloned from the official Github repository and installed when you first run the simulation from the IDE GUI.
+Both Icarus simulation with traditional plain Verilog testbench and with Cocotb are supported. 
 
 [![Documentation Status](https://readthedocs.org/projects/opencores-jpegencoder/badge/?version=latest)](http://opencores-jpegencoder.readthedocs.org/en/latest/)
 [![Build Status](https://api.travis-ci.org/chiggs/oc_jpegencode.png?branch=master)](https://travis-ci.org/chiggs/oc_jpegencode)
