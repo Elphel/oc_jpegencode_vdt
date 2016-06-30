@@ -42,7 +42,7 @@ last JPEG_bitstream value is written to the signal "end_of_file_bitstream_count"
 */
 
 `timescale 1ns / 100ps
-
+//`define TRACE
 module jpeg_top(clk, rst, end_of_file_signal, enable, data_in, JPEG_bitstream, 
 data_ready, end_of_file_bitstream_count, eof_data_partial_ready);
 input		clk;
@@ -58,7 +58,6 @@ output		eof_data_partial_ready;
 wire [31:0] JPEG_FF;
 wire data_ready_FF;
 wire [4:0] orc_reg_in;
- 
 
  fifo_out u19 (.clk(clk), .rst(rst), .enable(enable), .data_in(data_in), 
  .JPEG_bitstream(JPEG_FF), .data_ready(data_ready_FF), .orc_reg(orc_reg_in));
@@ -71,9 +70,10 @@ wire [4:0] orc_reg_in;
  .eof_data_partial_ready(eof_data_partial_ready));
 
 `ifdef TRACE
+`include "IVERILOG_INCLUDE.v"
 initial begin
-  $dumpfile ("waveform.vcd");
-  $dumpvars (0,jpeg_top);
+  $dumpfile (fstname);
+  $dumpvars (0,jpeg_top); //SuppressThisWarning VEditor - VDT bug, does not recognize the name of the top module
 end
 `endif
  

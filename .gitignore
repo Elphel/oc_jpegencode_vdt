@@ -1,0 +1,9 @@
+simulation/*
+*.kate-swp
+cocotb/Makefile
+IVERILOG_INCLUDE.v
+*.pyc
+*.fst
+*.vcd
+cocotb/sim_build
+*.directory

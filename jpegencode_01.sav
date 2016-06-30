@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Tue Jun 28 06:01:58 2016
+[*]
+[dumpfile] "/home/eyesis/git/oc_jpegencode/simulation/jpeg_top_TB-20160628000126896.fst"
+[dumpfile_mtime] "Tue Jun 28 06:01:37 2016"
+[dumpfile_size] 4257098
+[savefile] "/home/eyesis/git/oc_jpegencode/jpegencode_01.sav"
+[timestart] 0
+[size] 1000 600
+[pos] 915 108
+*-25.579470 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] jpeg_top_tb.
+[sst_width] 204
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 146
+@22
+jpeg_top_tb.UUT.JPEG_FF[31:0]
+jpeg_top_tb.UUT.JPEG_bitstream[31:0]
+@28
+jpeg_top_tb.UUT.aaaa[2:0]
+jpeg_top_tb.UUT.clk
+@22
+jpeg_top_tb.UUT.data_in[23:0]
+@28
+jpeg_top_tb.UUT.data_ready
+jpeg_top_tb.UUT.data_ready_FF
+jpeg_top_tb.UUT.enable
+@22
+jpeg_top_tb.UUT.end_of_file_bitstream_count[4:0]
+@28
+jpeg_top_tb.UUT.end_of_file_signal
+jpeg_top_tb.UUT.eof_data_partial_ready
+@22
+jpeg_top_tb.UUT.orc_reg_in[4:0]
+@28
+jpeg_top_tb.UUT.rst
+[pattern_trace] 1
+[pattern_trace] 0
