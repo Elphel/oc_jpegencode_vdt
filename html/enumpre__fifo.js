@@ -1,0 +1,26 @@
+var enumpre__fifo =
+[
+    [ "clk", "enumpre__fifo.html#ae706f116d2ccd8551c271559784fc137", null ],
+    [ "rst", "enumpre__fifo.html#ac3591f4a5ff73fa1eb7913b03b3df593", null ],
+    [ "enable", "enumpre__fifo.html#ad137ddb8a61bfb1d19cb470b030cc8f0", null ],
+    [ "data_in", "enumpre__fifo.html#a570c0cefd88dee76b2ef420d7c63e4d2", null ],
+    [ "cr_JPEG_bitstream", "enumpre__fifo.html#aa4a98256cfa831f5802b87e19489f2f9", null ],
+    [ "cr_data_ready", "enumpre__fifo.html#a982e823714fbd87f582351ec2f12aeb3", null ],
+    [ "cr_orc", "enumpre__fifo.html#a42f019bfc565d17067a2ec0fb45740a6", null ],
+    [ "cb_JPEG_bitstream", "enumpre__fifo.html#a16bc2eddf95f53f614610d0bc6f0087f", null ],
+    [ "cb_data_ready", "enumpre__fifo.html#a7ac6191a21ea95e33950fb51d08ad46e", null ],
+    [ "cb_orc", "enumpre__fifo.html#a3f9074a2b0773683c2e8d0e7ea716033", null ],
+    [ "y_JPEG_bitstream", "enumpre__fifo.html#a4e3162b58f138929a71aee61f14376a6", null ],
+    [ "y_data_ready", "enumpre__fifo.html#a7db0905a421dd6f4db501792f1a01207", null ],
+    [ "y_orc", "enumpre__fifo.html#a77bbfd484bf4c3e97d6dc53bb187d514", null ],
+    [ "y_eob_output", "enumpre__fifo.html#abb4fc9666ec1487afb614190ba42a280", null ],
+    [ "y_eob_empty", "enumpre__fifo.html#ac437ae1bc3ae0ea518814b34abf163cd", null ],
+    [ "cb_eob_empty", "enumpre__fifo.html#ab8d24bc0b79b6ed8670b7e0d07f91b2f", null ],
+    [ "cr_eob_empty", "enumpre__fifo.html#a7fe12d5791d16f98156dc743da1efed8", null ],
+    [ "rgb_enable", "enumpre__fifo.html#a05d29fdda57d9eccb89e4491ceb90787", null ],
+    [ "dct_data_in", "enumpre__fifo.html#a8e23ea4d99bb3e4b0d02f6118a22abf1", null ],
+    [ "cbd_q_h", "enumpre__fifo.html#ac751bf4610b1934107c5df7b190a2782", null ],
+    [ "crd_q_h", "enumpre__fifo.html#ad288966ca2ac46c0828b3902db0827fe", null ],
+    [ "RGB2YCBCR", "enumpre__fifo.html#a57d7a31da3ab3091cfa62cd9deae4cb2", null ],
+    [ "yd_q_h", "enumpre__fifo.html#a5df5fe1455a133633de63058db4f67a1", null ]
+];

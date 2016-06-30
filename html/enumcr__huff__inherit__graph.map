@@ -1,0 +1,7 @@
+<map id="cr_huff" name="cr_huff">
+<area shape="rect" id="node2" href="$enumcrd__q__h.html" title="crd_q_h" alt="" coords="16,80,84,107"/>
+<area shape="rect" id="node3" href="$enumpre__fifo.html" title="pre_fifo" alt="" coords="17,155,83,181"/>
+<area shape="rect" id="node4" href="$enumfifo__out.html" title="fifo_out" alt="" coords="17,229,83,256"/>
+<area shape="rect" id="node5" href="$enumjpeg__top.html" title="jpeg_top" alt="" coords="15,304,85,331"/>
+<area shape="rect" id="node6" href="$enumjpeg__top__tb.html" title="jpeg_top_tb" alt="" coords="5,379,95,405"/>
+</map>

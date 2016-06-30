@@ -1,0 +1,5 @@
+<map id="cbd_q_h" name="cbd_q_h">
+<area shape="rect" id="node2" href="$enumcb__dct.html" title="cb_dct" alt="" coords="5,5,67,32"/>
+<area shape="rect" id="node3" href="$enumcb__quantizer.html" title="cb_quantizer" alt="" coords="91,5,187,32"/>
+<area shape="rect" id="node4" href="$enumcb__huff.html" title="cb_huff" alt="" coords="211,5,277,32"/>
+</map>

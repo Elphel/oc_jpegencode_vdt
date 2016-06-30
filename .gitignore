@@ -6,4 +6,5 @@ IVERILOG_INCLUDE.v
 *.fst
 *.vcd
 cocotb/sim_build
+cocotb/results.xml
 *.directory

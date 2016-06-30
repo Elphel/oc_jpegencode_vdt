@@ -1,0 +1,5 @@
+<map id="crd_q_h" name="crd_q_h">
+<area shape="rect" id="node2" href="$enumcr__dct.html" title="cr_dct" alt="" coords="5,5,64,32"/>
+<area shape="rect" id="node3" href="$enumcr__quantizer.html" title="cr_quantizer" alt="" coords="88,5,181,32"/>
+<area shape="rect" id="node4" href="$enumcr__huff.html" title="cr_huff" alt="" coords="206,5,269,32"/>
+</map>

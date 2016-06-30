@@ -1,0 +1,25 @@
+var enumsync__fifo__ff =
+[
+    [ "ALWAYS_324", "enumsync__fifo__ff.html#a3b1e5ee4022a40fe36a6413ae082599c", null ],
+    [ "ALWAYS_325", "enumsync__fifo__ff.html#a0c36420fb4069f9069ff394e453fefc8", null ],
+    [ "ALWAYS_326", "enumsync__fifo__ff.html#a8f4a61d27bd92ae5f000e243feb006a4", null ],
+    [ "ALWAYS_327", "enumsync__fifo__ff.html#aa88ebd070b0ea563e41a5544c2ac5cbc", null ],
+    [ "ALWAYS_328", "enumsync__fifo__ff.html#a1129df8b1f95dd910f781293a7ca7fb4", null ],
+    [ "clk", "enumsync__fifo__ff.html#a04030bc04cab6e57eb8223b67c2fed5c", null ],
+    [ "rst", "enumsync__fifo__ff.html#aed719cbcd96a3fd256a4eed82f70882f", null ],
+    [ "read_req", "enumsync__fifo__ff.html#a9b3ee964bd3dfef5cdf4012a09fb4c3a", null ],
+    [ "write_data", "enumsync__fifo__ff.html#aa704ce84663aa83694b203e224740844", null ],
+    [ "write_enable", "enumsync__fifo__ff.html#a1dab7751da78d7868cfdc6de111ebc83", null ],
+    [ "rollover_write", "enumsync__fifo__ff.html#ac84b837436d6e7db5b7fe497a80c51a5", null ],
+    [ "read_data", "enumsync__fifo__ff.html#a27ef82b4ade04189c6ff3d01bc5faad4", null ],
+    [ "fifo_empty", "enumsync__fifo__ff.html#ad72f1c8fb8823211a1c64d6ae5bc6448", null ],
+    [ "rdata_valid", "enumsync__fifo__ff.html#a31abc8378a49164b992e2e011189f0a8", null ],
+    [ "read_ptr", "enumsync__fifo__ff.html#a5f99a252174bf966baf48d189cbeee57", null ],
+    [ "write_ptr", "enumsync__fifo__ff.html#a56facfa8b2c39145c84635c1c7536897", null ],
+    [ "mem", "enumsync__fifo__ff.html#af84885633839f7953759d6e08c74b58a", null ],
+    [ "read_data", "enumsync__fifo__ff.html#afbdad78ae7d4cc9f2af0254c90af174b", null ],
+    [ "rdata_valid", "enumsync__fifo__ff.html#ad8146166f6def9c120bfa7fc4fbc208a", null ],
+    [ "write_addr", "enumsync__fifo__ff.html#a50b6f307fdec92b44ce6418d3e715a97", null ],
+    [ "read_addr", "enumsync__fifo__ff.html#a7606620082362c6de278a242e7f2b3aa", null ],
+    [ "read_enable", "enumsync__fifo__ff.html#a64854b821455e858d16edadae5c1f20e", null ]
+];
