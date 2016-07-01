@@ -4,7 +4,9 @@ This repository is fork of a fork - it is taken from [https://github.com/chiggs/
 just added Eclipse/[VDT](https://github.com/Elphel/vdt-plugin) project files, made a few other changes
 so it can be imported into IDE as Eclipse project and run there.
 
-__These Verilog source files are not related to any of Elphel camera projects.__ 
+__These Verilog source files are not related to any of Elphel camera projects.__  Doxverilog generated
+[documentaion](https://github.com/Elphel/oc_jpegencode_vdt/tree/master/html) is
+is browsable [here](https://cdn.rawgit.com/Elphel/oc_jpegencode_vdt/master/html/index.html).
 
 Instructions below are preserved from the original (first fork) repo. With [VDT plugin](https://github.com/Elphel/vdt-plugin)
 you need to install the plugin following the instructions and/or video tutorial, then clone this project and open it in VDT.
