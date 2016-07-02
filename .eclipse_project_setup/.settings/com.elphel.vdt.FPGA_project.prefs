@@ -1,0 +1,8 @@
+FPGA_project_0_SimulationTopFile=code/jpeg_top_TB.v
+FPGA_project_1_SimulationTopModule=UUT
+FPGA_project_2_DUTTopFile=code/jpeg_top.v
+FPGA_project_2_ImplementationTopFile=code/jpeg_top.v
+FPGA_project_3_DUTTopModule=jpeg_top
+FPGA_project_3_ImplementationTopModule=jpeg_top
+com.elphel.store.context.FPGA_project=FPGA_project_0_SimulationTopFile<-@\#\#@->FPGA_project_1_SimulationTopModule<-@\#\#@->FPGA_project_2_ImplementationTopFile<-@\#\#@->FPGA_project_3_ImplementationTopModule<-@\#\#@->FPGA_project_2_DUTTopFile<-@\#\#@->FPGA_project_3_DUTTopModule<-@\#\#@->
+eclipse.preferences.version=1

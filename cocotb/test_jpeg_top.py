@@ -35,9 +35,13 @@ def compare(i1, i2):
 @cocotb.coroutine
 def process_image(dut, filename="", debug=False, threshold=0.22):
     """Run an image file through the jpeg encoder and compare the result"""
-    cocotb.fork(Clock(dut.clk, 100).start())
-
+    yield Timer(10)
+#    cocotb.fork(Clock(dut.clk, 100).start())
+    """
     driver = ImageDriver(dut)
+    
+    
+    
     monitor = JpegMonitor(dut)
 
     if debug:                                            # pragma: no cover
@@ -58,8 +62,10 @@ def process_image(dut, filename="", debug=False, threshold=0.22):
     if difference > threshold:                           # pragma: no cover
         raise TestFailure("Resulting image file was too different (%f > %f)" %
                           (difference, threshold))
-
+    """                      
+"""
 tf = TestFactory(process_image)
 tf.add_option("filename", [os.path.join('test_images', f)
                             for f in os.listdir('test_images')])
 tf.generate_tests()
+"""
