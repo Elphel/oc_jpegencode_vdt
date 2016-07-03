@@ -1,9 +1,8 @@
-cocotb_105_CocotbCUSTOM_COMPILE_DEPS=IVERILOG_INCLUDE.v<-@\#\#@->
-cocotb_110_COCOTB_ANSI_OUTPUT=true
-cocotb_111_CocotbMODULE=test_jpeg_top<-@\#\#@->
-cocotb_113_MakeCleanPatterns=*.pyc results.xml<-@\#\#@->*.jpg<-@\#\#@->
-cocotb_116_GTKWaveSavFile=jpeg_top_01.sav
-cocotb_117_CocotbIncludeDir=${verilog_project_loc}<-@\#\#@->
-cocotb_120_GTKWaveSavFile=jpeg_top_01.gtkw
-com.elphel.store.context.cocotb=cocotb_120_GTKWaveSavFile<-@\#\#@->cocotb_113_MakeCleanPatterns<-@\#\#@->cocotb_117_CocotbIncludeDir<-@\#\#@->cocotb_111_CocotbMODULE<-@\#\#@->cocotb_105_CocotbCUSTOM_COMPILE_DEPS<-@\#\#@->cocotb_110_COCOTB_ANSI_OUTPUT<-@\#\#@->cocotb_116_GTKWaveSavFile<-@\#\#@->
+cocotb_@_CocotbCUSTOM_COMPILE_DEPS=IVERILOG_INCLUDE.v<-@\#\#@->
+cocotb_@_CocotbIncludeDir=${verilog_project_loc}<-@\#\#@->
+cocotb_@_CocotbMODULE=test_jpeg_top<-@\#\#@->
+cocotb_@_GTKWaveSavFile=jpeg_top_01.gtkw
+cocotb_@_MakeCleanPatterns=*.pyc results.xml<-@\#\#@->*.jpg<-@\#\#@->
+com.elphel.store.context.cocotb=cocotb_@_CocotbMODULE<-@\#\#@->cocotb_@_GTKWaveSavFile<-@\#\#@->cocotb_@_CocotbIncludeDir<-@\#\#@->cocotb_@_MakeCleanPatterns<-@\#\#@->cocotb_@_CocotbCUSTOM_COMPILE_DEPS<-@\#\#@->
+com.elphel.store.version.cocotb=0.8
 eclipse.preferences.version=1
