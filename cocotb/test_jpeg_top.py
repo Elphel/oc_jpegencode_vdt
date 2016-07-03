@@ -38,7 +38,6 @@ def process_image(dut, filename="", debug=False, threshold=0.22):
     cocotb.fork(Clock(dut.clk, 100).start())
     #Overwriting debug (original) with the one from env
     debug = os.getenv('COCOTB_DEBUG') # None/1
-    yield Timer(10)
 
     driver = ImageDriver(dut)
     monitor = JpegMonitor(dut)
